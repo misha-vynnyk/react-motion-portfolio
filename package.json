@@ -1,5 +1,6 @@
 {
-  "name": "https://misha-vynnyk.github.io/react-motion-portfolio/",
+  "homepage": "https://misha-vynnyk.github.io/react-motion-portfolio/",
+  "name": "react-motion-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
